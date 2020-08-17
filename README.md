@@ -9,7 +9,7 @@ Humans are social living beings that needed to do activities during all the day.
 **The following instructions are the main parts of the application, for further detailed instructions and to see the functionality in action check-out the [Youtube Link](https://www.youtube.com/watch?v=Giwt0EZJY-A&t=24s)**
 </br>
 </br>
-![unload photo](https://github.com/unalyagiz/GatheringsMobileApplication/tree/master/trunk/Screenshots/lg1.png)
+![unload photo](https://github.com/unalyagiz/GatheringsMobileApplication/blob/master/trunk/Screenshots/lg1.png)
 ![unload photo](https://github.com/unalyagiz/GatheringsMobileApplication/tree/master/trunk/Screenshots/lg2.png)
 </br>
 **When the user launch the application, this screen shows up. If the user have an account the login screen will be used otherwise user must be registered.**
